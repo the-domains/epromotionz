@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T13:50:25.461Z'
+datePublished: '2016-08-20T03:29:22.835Z'
 sourcePath: >-
   _posts/2016-04-16-all-the-adults-colouring-is-leading-to-huge-sales-for-pencil.md
 inFeed: true
@@ -19,26 +19,19 @@ keywords:
   - basford
 related: []
 author: []
-dateModified: '2016-08-19T13:50:25.108Z'
-title: All the adults colouring is leading to huge sales for pencil companies
+via: {}
+dateModified: '2016-08-20T03:29:22.412Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
-description: >-
-  SYDNEY, Australia - So many adults are spending their days colouring in the
-  lines, pencil companies are struggling to cope with the demand for coloured
-  pencils and felt tip pens. Staedtler , the German company which produces felt
-  tip pens and coloured pencils, has seen significant growth in Australia as
-  adults get obsessed with the mindful trend.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>All the adults colouring is leading to huge sales for pencil companies</h1><p>SYDNEY, Australia - So many adults are spending their days colouring in the lines, pencil companies are struggling to cope with the demand for coloured pencils and felt tip pens. Staedtler , the German company which produces felt tip pens and coloured pencils, has seen significant growth in Australia as adults get obsessed with the mindful trend.</p><img src="http://rack.3.mshcdn.com/media/ZgkyMDE2LzA0LzExLzQ4LzBjNmE2NTZjYzQwLjRmOWNhLmpwZwpwCXRodW1iCTEyMDB4NjMwCmUJanBn/09a7191e/180/0c6a656cc4044ac691546a71e9672f0f.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4793f2d6-b052-4421-92e0-a883b47ac4fd.jpg)
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43e5b81e32a2eed49bc1b95c3f9a5134/croprotate.jpg?cropheight=627&amp;cropwidth=1093&amp;degrees=0&amp;input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc694bb4f657cd6d836625476e3fecd781386d10b.jpg&amp;x=0&amp;y=0" /><h1>All the adults colouring is leading to huge sales for pencil companies</h1><p>SYDNEY, Australia - So many adults are spending their days colouring in the lines, pencil companies are struggling to cope with the demand for coloured pencils and felt tip pens. Staedtler , the German company which produces felt tip pens and coloured pencils, has seen significant growth in Australia as adults get obsessed with the mindful trend.</p></article>

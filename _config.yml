@@ -1,4 +1,3 @@
-layout_spectrum: 0.7254680949263275
 typography_spectrum: 0.2567327693104744
 color:
   brandStrength: 0.0257297835778445
@@ -6,9 +5,11 @@ color:
   saturation: 0.24483600654639304
   rhythmicContrast: 0.48773275851272047
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.7254680949263275
 name: Epromotionz
+description: it's all about being found on line for your services !
